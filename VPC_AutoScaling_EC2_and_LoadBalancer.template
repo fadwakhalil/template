@@ -1,7 +1,7 @@
 {
   "AWSTemplateFormatVersion" : "2010-09-09",
 
-  "Description" : "AWS CloudFormation Template VPC_AutoScaling_EC2_and_LoadBalancer: This template is to create a VPC and add two EC2 instances with an Elastic IP address and a security group in addition to auto-scaling and loadbalancing features and S3 bucket. **WARNING** This template creates an Amazon EC2 instance. You will be billed for the AWS resources used if you create a stack from this template.",
+  "Description" : "AWS CloudFormation Template VPC_AutoScaling_EC2_and_LoadBalancer: A template to create a VPC and add two EC2 instances with an Elastic IP address and a security group in addition to auto-scaling and loadbalancing features and S3 bucket. **WARNING** This template creates an Amazon EC2 instance. You will be billed for the AWS resources used if you create a stack from this template.",
 
   "Parameters" : {
 
